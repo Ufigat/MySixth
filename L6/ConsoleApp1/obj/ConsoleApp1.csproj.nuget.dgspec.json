@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Владыка\\Desktop\\L6\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Владыка\\Desktop\\MySixth\\L6\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Владыка\\Desktop\\L6\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Владыка\\Desktop\\MySixth\\L6\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Владыка\\Desktop\\L6\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Владыка\\Desktop\\MySixth\\L6\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Владыка\\Desktop\\L6\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Владыка\\Desktop\\MySixth\\L6\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Владыка\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Владыка\\Desktop\\L6\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Владыка\\Desktop\\MySixth\\L6\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Владыка\\AppData\\Roaming\\NuGet\\NuGet.Config",
